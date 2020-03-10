@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\11_09\documents\visual studio 2017\projects\laba2siaod\laba2siaod\main.cpp(9): warning C4101: v: неиспользованная локальная переменная
+  Laba2siaod.vcxproj -> C:\Users\11_09\documents\visual studio 2017\Projects\Laba2siaod\Debug\Laba2siaod.exe
+  Laba2siaod.vcxproj -> C:\Users\11_09\documents\visual studio 2017\Projects\Laba2siaod\Debug\Laba2siaod.pdb (Partial PDB)

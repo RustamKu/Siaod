@@ -1,0 +1,9 @@
+﻿  Source.cpp
+c:\users\11_09\documents\visual studio 2017\projects\labaaod4\labaaod4\source.cpp(70): warning C4477: "fscanf_s": в строке форматирования "%s" требуется аргумент типа "unsigned int", но вариативный аргумент "3" имеет тип "char (*)[15]"
+  c:\users\11_09\documents\visual studio 2017\projects\labaaod4\labaaod4\source.cpp(70): note: этот аргумент используется в качестве размера буфера
+c:\users\11_09\documents\visual studio 2017\projects\labaaod4\labaaod4\source.cpp(70): warning C4473: "fscanf_s": передано недостаточно аргументов для строки формата
+  c:\users\11_09\documents\visual studio 2017\projects\labaaod4\labaaod4\source.cpp(70): note: заполнители и их параметры ожидают переменное число аргументов в количестве 7, но было предоставлено 4
+  c:\users\11_09\documents\visual studio 2017\projects\labaaod4\labaaod4\source.cpp(70): note: отсутствующий вариативный аргумент "5" требуется для строки форматирования "%s"
+  c:\users\11_09\documents\visual studio 2017\projects\labaaod4\labaaod4\source.cpp(70): note: этот аргумент используется в качестве размера буфера
+  LabaAOD4.vcxproj -> C:\Users\11_09\documents\visual studio 2017\Projects\LabaAOD4\Debug\LabaAOD4.exe
+  LabaAOD4.vcxproj -> C:\Users\11_09\documents\visual studio 2017\Projects\LabaAOD4\Debug\LabaAOD4.pdb (Partial PDB)
